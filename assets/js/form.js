@@ -11,5 +11,5 @@ document.getElementById("blogForm").addEventListener("submit", function(event) {
   localStorage.setItem("blogPosts", JSON.stringify(posts));
 
   // Redirect to posts page
-  window.location.replace("blog.html")
+  window.location.replace("./blog.html")
 });

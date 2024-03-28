@@ -13,7 +13,6 @@ document.addEventListener('DOMContentLoaded', function() {
       modeToggleBtn.textContent = 'Dark Mode';
     }
   });
-  // Load saved blog posts from local storage
   loadBlogPosts();
 
   // Event listener for form submission
@@ -26,7 +25,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Save blog post to local storage
     saveBlogPost(blogContent);
-    // Display the latest blog posts
     loadBlogPosts();
 
   // Clear the input field
