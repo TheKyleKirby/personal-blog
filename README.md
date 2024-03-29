@@ -22,6 +22,9 @@ Here are a few screenshots of the two HTML pages.
 
 ![Here is a picture of the blog page.](assets/images/blog.page.png) 
 
+## Link To Deployed Action
+https://thekylekirby.github.io/personal-blog/ 
+
 ## License
 
 No license
